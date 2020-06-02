@@ -1,0 +1,68 @@
+{
+    "states": 200,
+    "data": [ 
+
+        {
+            "id": 1,
+            "tabs": "今日推荐",
+            "name": "name1",
+            "main": [{
+                "img": "http://p3.pstatp.com/origin/pgc-image/1521cde51e3d4b638789974569e37ae4",
+                "text": "今天的颜色，是梦幻紫",
+                "piaojia": 666
+            }, {
+                "img": "http://p3.pstatp.com/origin/pgc-image/1521cde51e3d4b638789974569e37ae4",
+                "text": "今天的颜色，是梦幻紫1111111111111111111",
+                "piaojia": 666
+            }, {
+                "img": "http://p3.pstatp.com/origin/pgc-image/1521cde51e3d4b638789974569e37ae4",
+                "text": "今天的颜色，是梦幻紫",
+                "piaojia": 666
+            }, {
+                "img": "http://p3.pstatp.com/origin/pgc-image/1521cde51e3d4b638789974569e37ae4",
+                "text": "今天的颜色，是梦幻紫",
+                "piaojia": 666
+            }, {
+                "img": "http://p3.pstatp.com/origin/pgc-image/1521cde51e3d4b638789974569e37ae4",
+                "text": "今天的颜色，是梦幻紫",
+                "piaojia": 666
+            }, {
+                "img": "http://p3.pstatp.com/origin/pgc-image/1521cde51e3d4b638789974569e37ae4",
+                "text": "今天的颜色，是梦幻紫",
+                "piaojia": 666
+            }]
+        },
+        {
+            "id": 2,
+            "tabs": "即将开售",
+            "name": "name2",
+            "main": [{
+                "img": "http://p1.pstatp.com/origin/pgc-image/f26f5dd83d2b48b6936a332df0117e31",
+                "text": "众里寻他千百度，蓦然回首，那人却在灯火阑珊处",
+                "piaojia": 666
+            }, {
+                "img": "http://p1.pstatp.com/origin/pgc-image/f26f5dd83d2b48b6936a332df0117e31",
+                "text": "众里寻他千百度，蓦然回首，那人却在灯火阑珊处",
+                "piaojia": 666
+            }, {
+                "img": "http://p1.pstatp.com/origin/pgc-image/f26f5dd83d2b48b6936a332df0117e31",
+                "text": "众里寻他千百度，蓦然回首，那人却在灯火阑珊处",
+                "piaojia": 666
+            }, {
+                "img": "http://p1.pstatp.com/origin/pgc-image/f26f5dd83d2b48b6936a332df0117e31",
+                "text": "众里寻他千百度，蓦然回首，那人却在灯火阑珊处",
+                "piaojia": 666
+            }, {
+                "img": "http://p3.pstatp.com/origin/pgc-image/1521cde51e3d4b638789974569e37ae4",
+                "text": "今天的颜色，是梦幻紫",
+                "piaojia": 666
+            }, {
+                "img": "http://p3.pstatp.com/origin/pgc-image/1521cde51e3d4b638789974569e37ae4",
+                "text": "今天的颜色，是梦幻紫",
+                "piaojia": 666
+            }]
+        }
+
+    ]
+
+}

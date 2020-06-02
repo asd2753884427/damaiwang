@@ -1,0 +1,486 @@
+{
+    "success": 200,
+    "data": [{
+            "louceng": "1F",
+            "title": "戏剧达人",
+            "main": [{
+                "id": 1,
+                "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                "jiage": 520
+            }],
+            "mainright": [{
+                    "id": 1,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 2,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 3,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 4,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                }
+            ],
+            "mainslide": [{
+                "id": 1,
+                "title": "热门演出排行",
+                "gengduo": "查看全部>>",
+                "list": [{
+                        "index": 1,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 2,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 3,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 4,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 5,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 6,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 7,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 8,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 9,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 10,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }
+
+                ]
+            }]
+        }, {
+            "louceng": "2F",
+            "title": "戏剧达人",
+            "main": [{
+                "id": 1,
+                "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                "jiage": 520
+            }],
+            "mainright": [{
+                    "id": 1,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 2,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 3,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 4,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                }
+            ],
+            "mainslide": [{
+                "id": 1,
+                "title": "热门演出排行",
+                "gengduo": "查看全部>>",
+                "list": [{
+                        "index": 1,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 2,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 3,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 4,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 5,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 6,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 7,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 8,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 9,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 10,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }
+
+                ]
+            }]
+        }, {
+            "louceng": "3F",
+            "title": "戏剧达人",
+            "main": [{
+                "id": 1,
+                "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                "jiage": 520
+            }],
+            "mainright": [{
+                    "id": 1,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 2,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 3,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 4,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                }
+            ],
+            "mainslide": [{
+                "id": 1,
+                "title": "热门演出排行",
+                "gengduo": "查看全部>>",
+                "list": [{
+                        "index": 1,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 2,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 3,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 4,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 5,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 6,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 7,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 8,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 9,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 10,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }
+
+                ]
+            }]
+        }, {
+            "louceng": "4F",
+            "title": "戏剧达人",
+            "main": [{
+                "id": 1,
+                "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                "jiage": 520
+            }],
+            "mainright": [{
+                    "id": 1,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 2,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 3,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 4,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                }
+            ],
+            "mainslide": [{
+                "id": 1,
+                "title": "热门演出排行",
+                "gengduo": "查看全部>>",
+                "list": [{
+                        "index": 1,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 2,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 3,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 4,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 5,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 6,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 7,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 8,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 9,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 10,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }
+
+                ]
+            }]
+        }, {
+            "louceng": "5F",
+            "title": "戏剧达人",
+            "main": [{
+                "id": 1,
+                "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                "jiage": 520
+            }],
+            "mainright": [{
+                    "id": 1,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 2,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 3,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 4,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                }
+            ],
+            "mainslide": [{
+                "id": 1,
+                "title": "热门演出排行",
+                "gengduo": "查看全部>>",
+                "list": [{
+                        "index": 1,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 2,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 3,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 4,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 5,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 6,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 7,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 8,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 9,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 10,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }
+
+                ]
+            }]
+        }, {
+            "louceng": "6F",
+            "title": "戏剧达人",
+            "main": [{
+                "id": 1,
+                "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                "jiage": 520
+            }],
+            "mainright": [{
+                    "id": 1,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 2,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 3,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                },
+                {
+                    "id": 4,
+                    "images": "http://p3.pstatp.com/large/pgc-image/f3137219d7e449b288138951ce746ebc",
+                    "title": "好好生活，慢慢爱你。不早不晚，刚好是你。",
+                    "riqi": "2020-20-20",
+                    "dizhi": "河北省",
+                    "jiage": 520
+                }
+            ],
+            "mainslide": [{
+                "id": 1,
+                "title": "热门演出排行",
+                "gengduo": "查看全部>>",
+                "list": [{
+                        "index": 1,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 2,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 3,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 4,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 5,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 6,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 7,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 8,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 9,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }, {
+                        "index": 10,
+                        "text": "我吃了太多盐闲的总去想你呀。"
+                    }
+
+                ]
+            }]
+        }
+
+    ]
+}
